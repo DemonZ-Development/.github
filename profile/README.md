@@ -44,7 +44,7 @@ For inquiries, support, or to discuss a project:
 
 - **Join our Discord server**: [DemonZ Development](https://discord.com/invite/EJ7tXWNftu)
 - **Open a support ticket** in our Discord server to start a discussion.
-- **mail us at**: [DemonZDev@Support](DemonZDev@outlook.in
+- **mail us at**: [DemonZDev@Support](DemonZDev@outlook.in)
 
 ## License
 
