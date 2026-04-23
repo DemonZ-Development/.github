@@ -37,10 +37,8 @@ Explore some of our flagship projects:
 
 | Project | Description |
 |---------|-------------|
-| **HyzerOX** | Premium hosting solutions delivering top-tier performance for servers and applications |
-| **AuroraAI** | Intelligent AI-integrated platform pushing the boundaries of automated assistance |
-| **CraftyAI** | AI-powered creative generation and content automation |
-| **NexaraAI** | Next-generation AI solutions for intelligent automation |
+| **CraftyAI** (under development) | AI-powered creative generation and content automation |
+| **NexaraAI** (under development)| Next-generation AI solutions for intelligent automation |
 
 ---
 
