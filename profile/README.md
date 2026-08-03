@@ -1,81 +1,40 @@
-# Welcome to DemonZ Development 🚀
+<p align="center">
+  <img src="banner.png" alt="DemonZ Development — Minecraft plugins, proxy tools, Discord bots and AI" width="100%">
+</p>
 
-We are a passionate software studio dedicated to crafting high-quality digital experiences. From immersive game servers to intelligent AI solutions, we build tools and platforms that empower communities and drive innovation.
+# DemonZ Development
 
----
+We build Minecraft plugins and proxy tooling for **Paper, Spigot, Folia, Velocity, Fabric and Forge** — plus the Discord bots, websites and AI tooling that run alongside them.
 
-## 🌟 What We Do
-
-At DemonZ Development, we specialize in a diverse range of cutting-edge projects:
-
-### Core Services
-- **🎮 Minecraft Ecosystems** – Custom plugins, optimized server setups, and scalable network management
-- **🤖 AI Innovations** – Next-generation AI-powered applications and intelligent automation solutions
-- **💬 Community Tools** – Advanced Discord bots designed for engagement and functionality
-- **🌐 Web Development** – Sleek, responsive, and high-performance websites built with modern standards
-- **🔧 Hosting Solutions** – Enterprise-grade server infrastructure optimized for reliability and performance
+[🌐 demonzdevelopment.online](https://demonzdevelopment.online) · [💬 Discord](https://discord.com/invite/GYsTt96ypf) · [📦 Modrinth](https://modrinth.com/user/demonzdevelopment) · [✉️ Email](mailto:demonzdevelopment@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Plugins & Tools
 
-We leverage modern, battle-tested technologies to build robust and scalable solutions:
+| Project | What it does |
+|---|---|
+| **[DZEconomy](https://github.com/DemonZ-Development/DZEconomy)** · [Modrinth](https://modrinth.com/plugin/dzeconomy) | Three-currency economy engine — conversions, PvP loot drops, combat tagging, LuckPerms multipliers, full Developer API |
+| **[VelocityNavigator](https://github.com/DemonZ-Development/VelocityNavigator)** · [Modrinth](https://modrinth.com/plugin/velocitynavigator) | Lobby navigation and intelligent load balancing for Velocity proxies |
+| **[Geo-Restrict](https://github.com/DemonZ-Development/Geo-Restrict)** · [Modrinth](https://modrinth.com/plugin/georestrict) | Country, ASN, VPN and proxy access rules for servers and proxy networks |
+| **[RedstoneReboot](https://github.com/DemonZ-Development/RedstoneReboot)** · [Modrinth](https://modrinth.com/plugin/redstonereboot) | Restart engine for Bukkit, Paper, Spigot, Folia, Fabric, Forge and NeoForge |
+| **[ZDiscord](https://github.com/DemonZ-Development/ZDiscord)** · [Modrinth](https://modrinth.com/plugin/zdiscord) | Discord chat bridge, role sync and server info |
+| **[Chaos-Chickens](https://github.com/DemonZ-Development/Chaos-Chickens)** · [Modrinth](https://modrinth.com/plugin/chaos-chickens) | Chickens with random chaos traits — explosive, speedy, golden, teleporting |
+| **[OnlySleep](https://github.com/DemonZ-Development/Onlysleep)** · [Modrinth](https://modrinth.com/plugin/onlysleep) | One player sleeping skips the night — fully configurable |
+| **[CraftyAI](https://github.com/DemonZ-Development/CraftyAI)** · [Modrinth](https://modrinth.com/plugin/craftyai) | An intelligent AI assistant for Minecraft |
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Python, JavaScript, TypeScript |
-| **Runtime** | Node.js |
-| **Frontend** | HTML5, CSS3, Modern Frameworks |
-| **Gaming** | Minecraft Server Architecture, Plugin APIs, Spigot/Paper |
-| **AI/ML** | LLMs, NLP, Automation Frameworks |
+## Infrastructure
 
----
-
-## 🚀 Featured Projects
-
-Explore some of our flagship projects:
-
-| Project | Description |
-|---------|-------------|
-| **CraftyAI** (under development) | AI-powered creative generation and content automation |
-| **NexaraAI** (under development)| Next-generation AI solutions for intelligent automation |
+| Project | What it does |
+|---|---|
+| **[CreeperCLI](https://github.com/DemonZ-Development/creepercli)** | Remote administration for Minecraft servers — Java plugin + Node.js CLI |
+| **[ZentrixStream](https://github.com/DemonZ-Development/ZentrixStream)** · [Live](https://zentrix.ct.ws/) | PHP streaming platform |
+| **[demonzdevelopment.online](https://github.com/DemonZ-Development/DemonZDevelopment)** | Source for the org website (TypeScript) |
 
 ---
 
-## 📊 Our Impact
+## Support
 
-- 🎯 Custom solutions for diverse industries
-- ⚡ High-performance infrastructure and optimization
-- 🤝 Community-driven development approach
-- 💡 Innovative AI and automation technologies
+Found a bug or have a feature request? Open an issue on the project's repository — or drop into the [Discord](https://discord.com/invite/GYsTt96ypf) and we'll get back to you.
 
----
-
-## 🤝 Connect & Collaborate
-
-We're constantly building and innovating. Follow our journey or get in touch for partnerships and collaborations!
-
-| Platform | Link |
-|----------|------|
-| **🌐 Website** | [DemonZDevelopment.online](https://demonzdevelopment.online) |
-| **💬 Discord** | [Join our community](https://discord.gg/GYsTt96ypf) |
-| **📧 Email** | [demonzdevelopment@gmail.com](mailto:demonzdevelopment@gmail.com) |
-| **💼 GitHub** | [DemonZ-Development](https://github.com/DemonZ-Development) |
-
----
-
-## 🔗 Quick Links
-
-- 📚 [Documentation](#) *(Coming soon)*
-- 🐛 [Report Issues](https://github.com/DemonZ-Development)
-- 💬 [Get Support](https://discord.gg/GYsTt96ypf)
-
----
-
-<div align="center">
-
-**Founded on a passion for code and driven by innovation.** 💻
-
-*Building tomorrow's solutions today.*
-
-</div>
+*Java-first, community-driven.*
