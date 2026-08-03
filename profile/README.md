@@ -6,7 +6,7 @@
 
 We build Minecraft plugins and proxy tooling for **Paper, Spigot, Folia, Velocity, Fabric and Forge** — plus the Discord bots, websites and AI tooling that run alongside them.
 
-[🌐 demonzdevelopment.online](https://demonzdevelopment.online) · [💬 Discord](https://discord.com/invite/GYsTt96ypf) · [📦 Modrinth](https://modrinth.com/user/demonzdevelopment) · [✉️ Email](mailto:demonzdevelopment@gmail.com)
+[🌐 demonzdevelopment.online](https://demonzdevelopment.online) · [💬 Discord](https://discord.com/invite/GYsTt96ypf) · [📦 Modrinth](https://modrinth.com/user/demonzdevelopment) · [🤖 NexaraAI](https://github.com/NexaraAI) · [✉️ Email](mailto:demonzdevelopment@gmail.com)
 
 ---
 
@@ -28,8 +28,17 @@ We build Minecraft plugins and proxy tooling for **Paper, Spigot, Folia, Velocit
 | Project | What it does |
 |---|---|
 | **[CreeperCLI](https://github.com/DemonZ-Development/creepercli)** | Remote administration for Minecraft servers — Java plugin + Node.js CLI |
-| **[ZentrixStream](https://github.com/DemonZ-Development/ZentrixStream)** · [Live](https://zentrix.ct.ws/) | PHP streaming platform |
 | **[demonzdevelopment.online](https://github.com/DemonZ-Development/DemonZDevelopment)** | Source for the org website (TypeScript) |
+
+## AI & Agents
+
+We're building the [NexaraAI](https://github.com/NexaraAI) platform — autonomous AI tooling for Minecraft and beyond:
+
+| Project | What it does |
+|---|---|
+| **[Nexara Agent](https://github.com/NexaraAI/Nexara-agent)** | Cross-platform autonomous agent framework powered by Gemini, with a resilient 4-tier LLM fallback chain |
+| **[Nexara Skills](https://github.com/NexaraAI/Nexara-skills)** | 80+ modular cross-platform skills with AST safety scanning and SHA256 integrity verification |
+| **[CraftyAI-500M](https://github.com/NexaraAI/CraftyAI-500M)** | ~488M-parameter Minecraft companion LLM, trained from scratch with a custom NA-BPE tokenizer |
 
 ---
 
